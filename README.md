@@ -1,5 +1,8 @@
 ![Logo Banner](logo.png)
 
+#Welcome!
+
+My name is Hung Tran. I am a Finance major and Accounting minor graduate from University of Houston Main campus with Major GPA of 4.0 and a current DigitalCrafts immersive web development Bootcamp student to graduate in January 2021.
 <!--
 **hptran7/hptran7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
