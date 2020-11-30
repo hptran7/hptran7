@@ -1,4 +1,4 @@
-### Hi there 👋
+![Logo Banner](logo.png)
 
 <!--
 **hptran7/hptran7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
