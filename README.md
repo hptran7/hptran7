@@ -8,6 +8,6 @@ My name is Hung Tran. I am a Finance major and Accounting minor graduate from Un
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on open source
 - 😄 Pronouns: He/His
-- 👨‍💻 All of my projects are available at https://hptran7.github.io/Porfolio/
+- 👨‍💻 All of my projects are available at https://hptran7.github.io/Portfolio/
 - ⚡ Fun fact: I am very happy and funny
 - 📄 Know about my experiences and view my resume at https://hptran7.github.io/Porfolio/
