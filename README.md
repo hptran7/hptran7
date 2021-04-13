@@ -10,4 +10,4 @@ My name is Hung Tran. I am a Finance major and Accounting minor graduate from Un
 - 😄 Pronouns: He/His
 - 👨‍💻 All of my projects are available at https://hptran7.github.io/Portfolio/
 - ⚡ Fun fact: I am very happy and funny
-- 📄 Know about my experiences and view my resume at https://hptran7.github.io/Porfolio/
+- 📄 Know about my experiences and view my resume at https://hptran7.github.io/Portfolio/
